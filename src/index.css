@@ -11,7 +11,6 @@ body {
   text-rendering: optimizeLegibility;
   background-image: linear-gradient(to bottom, #f9fafb, #d2d6db);
   padding: 120px 0px;
-  max-width: 1440px;
   font-size: 16px;
   margin: 0 auto;
 }
